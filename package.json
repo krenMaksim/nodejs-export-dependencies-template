@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-export-dependencies-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krenMaksim/nodejs-export-dependencies-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krenMaksim/nodejs-export-dependencies-template/issues"
+  },
+  "homepage": "https://github.com/krenMaksim/nodejs-export-dependencies-template#readme"
+}
